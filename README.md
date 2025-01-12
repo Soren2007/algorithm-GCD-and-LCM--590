@@ -26,7 +26,6 @@ Print the GCD first, followed by the LCM, separated by a space.
 ```
 4 40
 ```
-```
 
 # ب.م.م و ک.م.م
 
